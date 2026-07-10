@@ -1,4 +1,4 @@
-﻿```markdown
+﻿
 # OCTMNIST Classification with PyTorch
 
 This repository contains my Assignment 0 – Part III work for a deep learning course.  
